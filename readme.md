@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="Screenshot%202025-11-18%20at%209.01.59%20PM.png" width="800">
-  <img src="Screenshot%202025-11-18%20at%209.02.53%20PM.png" width="800">
-  <img src="Screenshot%202025-11-18%20at%209.03.29%20PM.png" width="800">
+  <img src="Screenshot 2025-11-18 at 9.01.59 PM.png" width="800">
+  <img src="Screenshot 2025-11-18 at 9.02.53 PM.png" width="800">
+  <img src="Screenshot 2025-11-18 at 9.03.29 PM.png" width="800">
 </p>
 
 ## 📊 System Pipeline Architecture
