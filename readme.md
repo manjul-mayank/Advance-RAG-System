@@ -20,6 +20,12 @@
   <img src="https://img.shields.io/badge/Accuracy-85%25%2B-success?style=flat-square" />
 </p>
 
+<p align="center">
+  <img src="Screenshot%202025-11-18%20at%209.01.59%20PM.png" width="800">
+  <img src="Screenshot%202025-11-18%20at%209.02.53%20PM.png" width="800">
+  <img src="Screenshot%202025-11-18%20at%209.03.29%20PM.png" width="800">
+</p>
+
 ## 📊 System Pipeline Architecture
 **Complete RAG Pipeline Diagram**
 ```
