@@ -1,0 +1,31 @@
+# Core Django & Web Framework
+Django>=4.2.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.0.0
+
+# RAG Core Dependencies
+faiss-cpu>=1.7.0
+sentence-transformers>=2.2.0
+transformers>=4.30.0
+torch>=2.0.0
+numpy>=1.21.0
+
+# Text Processing
+langchain>=0.0.200
+langchain-text-splitters>=0.0.1
+nltk>=3.8.0
+PyPDF2>=3.0.0
+
+# Evaluation Dependencies
+rouge-score>=0.1.2
+scikit-learn>=1.0.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# Utilities
+tqdm>=4.60.0
+requests>=2.25.0
+
+# DEPLOYMENT PACKAGES FOR DJANGO
+whitenoise==6.6.0
+google-cloud-storage==2.13.0
